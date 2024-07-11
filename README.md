@@ -24,7 +24,7 @@ Radio      	0.189758
 Newspaper  	0.004603
 
 
-Based on co-efficient it was found that newspaper las very less co-relation with sales.
+Based on co-efficient it was found that newspaper has very less co-relation with sales.
 In the other hand TV and Radio has very significant co-relation with sales.
 
 mean_squared_error:  1.784740052090281 # Meaning our model is not able to predict correctly 1.78% saying in other way model was 98% accurate.
