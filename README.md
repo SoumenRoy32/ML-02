@@ -17,6 +17,7 @@ Checked Performance Using: mean_squared_error and r_squared
 ## Result: 
 
 ![image](https://github.com/SoumenRoy32/ML-02/assets/69505821/433c528b-0edc-44d2-a4f2-003dd1e7c4e3)
+
 Attributes 	 Co-efficient
 TV         	0.045426
 Radio      	0.189758
