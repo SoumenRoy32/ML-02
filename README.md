@@ -15,13 +15,6 @@ Statistics Used: Multiple Linear Regression
 Checked Performance Using: mean_squared_error and r_squared
 
 ## Result: 
---------------------------
-Attributes | Co-efficient
---------------------------
-TV         |  0.045426
-Radio      |  0.189758
-Newspaper  |  0.004603
---------------------------
 
 Attributes 	 Co-efficient
 TV         	0.045426
